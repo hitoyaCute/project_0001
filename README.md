@@ -11,8 +11,8 @@ Data types help the programer to efficiently create effective code as it contrib
 Which data type do you find yourself using the most, and why does it align well with your programming needs or style?
 Me coding in python and js i almost use all type of data but i think i used str and int the most as most of my project is data processing as it was the kind of data i was working with, it also allows me to have a control over the values and be able to process them with my will 
 
-Example Usage:(here)[https://github.com/hitoyaCute/brainoof-python-implementation-]
+Example Usage:[here](https://github.com/hitoyaCute/brainoof-python-implementation-)
 
 Provide an example of a C++ program or scenario where you effectively used one or more of these data types.
-(project.cxx)[https://github.com/hitoyaCute/project_0001/blob/main/project.cxx]
+[project.cxx](https://github.com/hitoyaCute/project_0001/blob/main/project.cxx)
 
