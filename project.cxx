@@ -7,7 +7,7 @@ int main(){
     
     if (!(std::cin >> cm))
         break;
-    std::cout << "###" << cm << '\n';
+    std::cout << cm << '\n';
     float m = cm/100;
     std::cout << "\nresult is:" << m << "\ntype 0 to exit and this ";
   }
