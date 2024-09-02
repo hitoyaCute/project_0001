@@ -16,4 +16,4 @@ Example Usage:[here](https://github.com/hitoyaCute/brainoof-python-implementatio
 Provide an example of a C++ program or scenario where you effectively used one or more of these data types.
 [project.cxx](https://github.com/hitoyaCute/project_0001/blob/main/project.cxx)
 
-THIS IS A COLLEGE  ASSIGNMENT ADMISSION
+THIS IS A COLLEGE  ASSIGNMENT SUBMISSION
